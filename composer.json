@@ -1,0 +1,19 @@
+{
+    "name": "suhasrkms/ticktickboom",
+    "description": "ticktickBoom - A Laravel Package to connect Firebase as backend medium",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suhas R",
+            "email": "suhasrkms@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "SuhasRKMS\\ticktickBoom\\": "src/"
+        }
+    },
+    "require": {}
+}
